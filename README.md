@@ -29,8 +29,8 @@
 
 ## 🛠️ 技术栈 (Tech Stack)
 
-* **编程语言**：C++, C
-* **开发工具**：CLion, CMake, GCC/G++, Git
+* **编程语言**：C++, C,python
+* **开发工具**：CLion, CMake, GCC/G++, Git,pycharm
 * **核心库**：OpenCV (Computer Vision)
 * **核心领域**：面向对象设计、文件 IO、数字图像处理、基础数据结构与算法
 
